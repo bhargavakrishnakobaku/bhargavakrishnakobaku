@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently  looking for a job <br>I am Bhargava Krishna Kobaku<br>I did my studies in B.Tech - Computer Science and Engineering at Dr M.G.R. Educational Research Institute of Technology <br>I have  good communication skills in Telugu, English, Hindi, and Tamil <br>Im Good at HTML, CSS, JAVA and Mysql <br>I do  travel in mountains , beaches 
+I'm currently  looking for a job <br>I am Bhargava Krishna Kobaku<br>I did my studies in B.Tech - Computer Science and Engineering at Dr M.G.R. Educational Research Institute of Technology <br>I have  good communication skills in Telugu, English, Hindi, and Tamil <br>Im Good at cybersecurit , Nmap , burp suite  and Mysql <br>I do  travel in mountains , beaches 
 
 
 ## 🌐 Socials:
