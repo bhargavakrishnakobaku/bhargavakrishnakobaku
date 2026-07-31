@@ -1,139 +1,169 @@
+<div align="center">
+
 # Hi 👋, I'm Bhargava Krishna Kobaku
 
-## Network Engineer | Cybersecurity Enthusiast | Computer Science Graduate
+### 🌐 Aspiring Network Engineer | 🛡️ Networking & Cybersecurity Enthusiast
 
-I am a Computer Science Engineering graduate passionate about Networking, Cybersecurity, Linux, and Cloud Technologies. I enjoy learning new technologies, building practical security projects, and solving networking problems.
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Aspiring+Network+Engineer;Networking+%26+Cybersecurity+Enthusiast;Learning+CCNA+%7C+Network+Security;Always+Learning+New+Technologies" />
+
+<p>
+<a href="https://github.com/bhargavakrishnakobaku"><img src="https://img.shields.io/github/followers/bhargavakrishnakobaku?label=Followers&style=for-the-badge"></a>
+<img src="https://komarev.com/ghpvc/?username=bhargavakrishnakobaku&style=for-the-badge">
+</p>
+
+</div>
 
 ---
 
-## 🚀 About Me
+# 👨‍💻 About Me
 
-🎓 B.Tech in Computer Science Engineering (2021–2025)
+🎓 Computer Science Engineering Graduate
 
-🌐 Interested in
-- Network Engineering
-- Cybersecurity
-- SOC Analyst
-- Cloud Networking
+🌍 Passionate about Networking, Network Security and Infrastructure.
 
-💻 Currently Learning
-- CCNA
-- Network Security
+💡 I enjoy building networking labs, analyzing network traffic, solving security challenges and continuously improving my technical skills.
+
+🎯 **Career Goal**
+
+Become a skilled Network Engineer specializing in enterprise networking, network security and cloud networking.
+
+---
+
+# 🚀 Currently Learning
+
+- Cisco CCNA
+- Enterprise Networking
+- Routing & Switching
 - Linux Administration
-- SIEM
-- Wazuh
+- Wazuh SIEM
 - Splunk
-- Python Automation
+- Python Network Automation
 
 ---
 
-## 🛠️ Skills
-
-### Networking
+# 🌐 Networking Skills
 
 - TCP/IP
+- UDP
+- ICMP
 - OSI Model
 - Routing
 - Switching
 - VLAN
-- DNS
-- DHCP
 - NAT
+- DHCP
+- DNS
 - VPN
-- Firewall
+- Firewall Fundamentals
 - Subnetting
-
-### Cybersecurity
-
-- Nmap
-- Wireshark
-- Burp Suite
-- OWASP ZAP
-- Nikto
-- SQLMap
-- OpenVAS
-- Wazuh
-- Metasploit
-- John the Ripper
-
-### Programming
-
-- Python
-- Java
-- HTML
-- CSS
-- MySQL
-
-### Operating Systems
-
-- Kali Linux
-- Ubuntu
-- Windows Server
-
----
-
-## 📂 Featured Projects
-
-### 🔹 Driver Drowsiness Detection
-
-Python + OpenCV + Haar Cascade
-
-Detects driver drowsiness using computer vision.
-
----
-
-### 🔹 Fake News Detection
-
-Python + Machine Learning + Flask
-
-Predicts fake news using NLP and FastText.
-
----
-
-### 🔹 Library Management System
-
-Java + MySQL
-
-Desktop application for managing library records.
-
----
-
-### 🔹 Network Security Lab
-
-Includes:
-
-- Nmap Scanning
-- Wireshark Analysis
-- Burp Suite
-- Hping3
+- Network Troubleshooting
 - Packet Analysis
 
 ---
 
-## 📜 Certifications
+# 🛡️ Security Tools
 
-- Cybersecurity Internship
-- Network Security
-- Ethical Hacking
-- Linux Fundamentals
+<p align="left">
+
+<img src="https://skillicons.dev/icons?i=linux,bash,python,git,github"/>
+
+</p>
+
+**Tools**
+
+- Wireshark
+- Nmap
+- Hping3
+- Burp Suite
+- Nessus
+- Metasploit
+- Wazuh
+- OWASP ZAP
+- Kali Linux
 
 ---
 
-## 📈 GitHub Stats
+# 🚀 Featured Projects
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=bhargavakrishnakobaku&show_icons=true)
+## 🌐 Network Traffic Generation & Analysis using Hping3
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bhargavakrishnakobaku&layout=compact)
+✔ Generated TCP, UDP and ICMP packets
+
+✔ Captured packets using Wireshark
+
+✔ Analysed TCP Flags
+
+✔ Packet Inspection
+
+✔ Network Behaviour Analysis
+
+✔ Technical Documentation
 
 ---
 
-## 📫 Connect with Me
+## 🛡️ Network Security Lab
 
-LinkedIn:
+- Nmap Enumeration
+- Wireshark Packet Analysis
+- Hping3 Packet Crafting
+- Burp Suite Testing
+- Vulnerability Assessment
+- Network Troubleshooting
+
+---
+
+## 💻 Interactive Flip Card UI
+
+Modern responsive HTML/CSS project featuring 3D flip animations, hover effects and mobile-friendly design.
+
+---
+
+# 📜 Certification
+
+🏆 Microsoft Power Platform
+
+---
+
+# 📊 GitHub Analytics
+
+![](https://github-readme-stats.vercel.app/api?username=bhargavakrishnakobaku&show_icons=true&theme=tokyonight)
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=bhargavakrishnakobaku&theme=tokyonight)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=bhargavakrishnakobaku&layout=compact&theme=tokyonight)
+
+---
+
+# 🏆 GitHub Trophy
+
+![](https://github-profile-trophy.vercel.app/?username=bhargavakrishnakobaku&theme=tokyonight&row=1&column=6)
+
+---
+
+# 📈 Contribution Graph
+
+![](https://github-readme-activity-graph.vercel.app/graph?username=bhargavakrishnakobaku&theme=tokyo-night)
+
+---
+
+# 📫 Connect With Me
+
+📧 **Email**
+
+kbhargavkrishna5@gmail.com
+
+💼 **LinkedIn**
+
 https://www.linkedin.com/in/bhargava-krishna-kobaku-072346238/
 
-GitHub:
+💻 **GitHub**
+
 https://github.com/bhargavakrishnakobaku
 
-Email:
-kbhargavkrishna5@gmail.com
+---
+
+<div align="center">
+
+### ⭐ "Building Secure Networks. Learning Every Day."
+
+</div>
